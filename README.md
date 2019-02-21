@@ -1,7 +1,5 @@
 # Django Models and Foreign keys
 
-# django-models4-ic
-
 ## Lecture:
 
 ### Exercise 1
