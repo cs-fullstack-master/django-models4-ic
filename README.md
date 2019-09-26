@@ -33,6 +33,8 @@ Add at least 2 albums of your choosing to each band using the Django Admin conso
 
 Add an endpoint ```bands/``` that will list all Bands and their Albums
 
+### Challenge
+
 Add an endpoint ```delete/``` that will delete the last Band and all of their their Albums
 
 Add an endpoint ```updatedate/``` that will update the ```album_release_date``` of the first ```Album``` for all bands to ```1999```
